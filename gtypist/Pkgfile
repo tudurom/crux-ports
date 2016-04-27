@@ -1,0 +1,22 @@
+# Description: Universal typing tutor.
+# URL:         http://www.gnu.org/software/gtypist
+# Packager:    tudurom, xenogenesis@openmailbox.org
+# Depends on:  ncurses perl
+
+name=gtypist
+version=2.9.5
+release=1
+source=(http://ftpmirror.gnu.org/gtypist/gtypist-${version}.tar.gz)
+
+build() {
+	cd $name-$version
+    pwd
+    # Apply patch so ./configure doesn't look for ncursesw
+    patch -p1 < ../../../ncurses.patch
+    autoreconf
+
+    ./configure --prefix=/usr
+    make
+
+    make prefix=$PKG/usr install
+}
