@@ -1,0 +1,16 @@
+# Description: Program to easily change brightness on backlight-controllers.
+# URL:         https://github.com/haikarainen/light
+# Packager:    tudurom, xenogenesis@openmailbox.org
+# Depends on:
+
+name=light
+version=0.9
+release=1
+source=(https://github.com/haikarainen/light/archive/v${version}.zip)
+
+build() {
+	cd $name-$version
+
+    make
+    make DESTDIR="$PKG/" install
+}
