@@ -1,6 +1,7 @@
 # Description: A readline wrapper.
 # URL:         https://github.com/hanslub42/rlwrap
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git
 
 name=rlwrap

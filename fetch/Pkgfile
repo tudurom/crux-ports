@@ -1,6 +1,7 @@
 # Description: Transitional package.
 # URL:         https://github.com/dylanaraps/neofetch
 # Packager:    ix, arcetera at openmailbox dot org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  neofetch
 
 name=fetch

@@ -1,6 +1,7 @@
 # Description: Thermal daemon.
 # URL:         https://github.com/01org/thermal_daemon
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  dbus dbus-glib
 
 name=thermald

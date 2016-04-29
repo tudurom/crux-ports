@@ -1,6 +1,7 @@
 # Description: A Common Lisp implementation.
 # URL:         http://www.sbcl.org/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 # Optional:    clisp
 

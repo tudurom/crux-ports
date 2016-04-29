@@ -1,6 +1,7 @@
 # Description: Console based XMPP client
 # URL:         http://www.profanity.im
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  curl expat glib libotr libstrophe gpgme
 
 name=profanity

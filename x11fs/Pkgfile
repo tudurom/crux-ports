@@ -1,6 +1,7 @@
 # Description: An X Window virtual filesystem.
 # URL:         https://github.com/sdhand/x11fs
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git xorg-libxcb fuse
 
 name=x11fs

@@ -1,6 +1,7 @@
 # Description: A practical and portable Scheme system.
 # URL:         http://www.call-cc.org/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  
 
 name=chicken

@@ -1,6 +1,7 @@
 # Description: The Debian package manager
 # URL:         https://wiki.debian.org/Teams/Dpkg
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 
 name=dpkg

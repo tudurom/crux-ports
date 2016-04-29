@@ -1,6 +1,7 @@
 # Description: CLI client for imgur.com.
 # URL:         https://code.google.com/archive/p/imgur-cli/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  unzip python
 
 name=imgur

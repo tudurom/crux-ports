@@ -1,6 +1,7 @@
 # Description: A VPN daemon.
 # URL:         http://www.tinc-vpn.org
 # Packager:    ix, arcetera at openmailbox dot org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  openssl zlib lzo
 
 name=tinc

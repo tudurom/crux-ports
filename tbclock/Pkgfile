@@ -1,6 +1,7 @@
 # Description: A ncurses binary clock.
 # URL:         https://tamentis.com/projects/tbclock/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 
 name=tbclock

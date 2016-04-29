@@ -1,6 +1,7 @@
 # Description: An OSD library for X11.
 # URL:         http://sourceforge.net/projects/libxosd/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 
 name=libxosd

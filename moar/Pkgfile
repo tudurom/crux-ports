@@ -1,6 +1,7 @@
 # Description: A VM fo NQP and Rakudo Perl 6.
 # URL:         http://www.moarvm.com/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 
 name=moar

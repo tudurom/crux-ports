@@ -1,6 +1,7 @@
 # Description: Simple slides viewer.
 # URL:         http://git.2f30.org/catpoint/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git
 
 name=catpoint

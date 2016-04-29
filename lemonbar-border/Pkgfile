@@ -1,6 +1,7 @@
 # Description: Lemonbar with borders.
 # URL:         https://github.com/dark-yux/bar
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  xorg-libxcb
 
 name=lemonbar-border

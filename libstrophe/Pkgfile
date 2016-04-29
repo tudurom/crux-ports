@@ -1,6 +1,7 @@
 # Description: Simple, lightweight C library for writing XMPP clients
 # URL:         http://strophe.im/libstrophe/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  expat git
 
 name=libstrophe

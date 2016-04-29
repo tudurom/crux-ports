@@ -1,7 +1,7 @@
 # Description: A simple X hotkey daemon
 # URL:         https://github.com/baskerville/sxhkd
 # Packager:    Maximilian Dietrich, dxm at openmailbox dot org
-# Maintainer:  ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  xorg-xcb-util xorg-xcb-util-keysyms
 
 name=sxhkd

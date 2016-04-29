@@ -1,7 +1,7 @@
 # Description: A simple init.
 # URL:         http://git.suckless.org/sinit/
 # Packager:    onodera, onodera at openmailbox dot org
-# Maintainer:  ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:
 
 name=sinit

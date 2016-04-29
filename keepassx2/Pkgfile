@@ -1,6 +1,7 @@
 # Description: An Open-Source KeePass compatible password manager
 # URL:         https://keepassx.org
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  qt4 xorg-libxtst
 
 name=keepassx2

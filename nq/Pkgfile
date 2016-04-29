@@ -1,6 +1,7 @@
 # Description: Unix command line queue utility.
 # URL:         https://github.com/chneukirchen/nq
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git
 
 name=nq

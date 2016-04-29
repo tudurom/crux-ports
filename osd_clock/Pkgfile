@@ -1,5 +1,6 @@
 # Description: A clock which uses the X On-Screen Display library.
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  libxosd
 
 name=osd_clock

@@ -1,7 +1,7 @@
 # Description: distribution of Perl 6
 # URL:         http://rakudo.org/
 # Packager:    Bartlomiej Palmowski, rotwang at crux dot org dot pl
-# Maintainer:  ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  icu nqp
 
 name=rakudo

@@ -1,6 +1,7 @@
 # Description: WebP encoding/decoding library.
 # URL:         https://github.com/webmproject/libwebp
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git cmake libpng libtiff xz
 
 name=libwebp

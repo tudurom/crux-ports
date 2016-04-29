@@ -1,6 +1,7 @@
 # Description: Off-the-Record Messaging Library and Toolkit
 # URL:         http://otr.cypherpunks.ca/
-# Maintainer:  ix, arcetera@openmailbox.org
+# Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  libgcrypt
 
 name=libotr

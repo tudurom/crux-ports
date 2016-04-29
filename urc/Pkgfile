@@ -1,6 +1,7 @@
 # Description: Minimal rc script.
 # URL:         https://arcetera.moe/git/urc/
 # Packager:    ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  git busybox sinit
 
 name=urc

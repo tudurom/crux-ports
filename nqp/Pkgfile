@@ -1,7 +1,7 @@
 # Description: lightweight Perl 6-like environment for virtual machines
 # URL:         https://github.com/perl6/nqp
 # Packager:    Bartlomiej Palmowski, rotwang at crux dot org dot pl
-# Maintainer:  ix, arcetera@openmailbox.org
+# Maintainer:  tudurom, xenogenesis@openmailbox.org
 # Depends on:  moar
 
 name=nqp
