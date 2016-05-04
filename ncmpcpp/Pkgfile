@@ -1,0 +1,27 @@
+# Description: An almost exact clone of ncmpc with some new features.
+# URL:         http://rybczak.net/ncmpcpp
+# Packager:    Michael Savage, mike at mikejsavage dot co dot uk
+# Maintainer:  6c37 Team, https://github.com/6c37/crux-ports/issues
+# Depends on:  ncurses libmpdclient boost taglib
+
+name=ncmpcpp
+version=0.7.3
+release=1
+source=(http://rybczak.net/ncmpcpp/stable/ncmpcpp-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+
+	BOOST_LIB_SUFFIX='' ./configure --prefix=/usr \
+        --enable-clock \
+        --enable-outputs \
+        --enable-unicode \
+        --enable-visualizer \
+        --with-curl \
+        --with-fftw \
+        --with-taglib
+    make -j3
+    make DESTDIR=$PKG install
+
+	rm -rf $PKG/usr/share/doc
+}
