@@ -1,0 +1,24 @@
+#!/bin/sh
+#
+# /etc/rc.d/mongodb: start/stop MongoDB daemon
+#
+
+
+case $1 in
+start)
+	su -c "mongod --fork --config /etc/mongodb.conf" -s "/bin/sh" mongodb
+	;;
+stop)
+	killall -u mongodb mongod
+	;;
+restart)
+	$0 stop
+	sleep 2
+	$0 start
+	;;
+*)
+	echo "usage: $0 [start|stop|restart]"
+	;;
+esac
+
+# End of file

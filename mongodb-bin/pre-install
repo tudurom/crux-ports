@@ -1,0 +1,3 @@
+getent group mongodb || /usr/sbin/groupadd -r mongodb
+getent passwd mongodb || /usr/sbin/useradd -r -d /var/lib/mongodb -m -G mongodb -s /bin/false mongodb
+/usr/bin/passwd -l mongodb

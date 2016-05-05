@@ -1,0 +1,19 @@
+# Description: MongoDB (from "humongous") is an open-source document database
+# URL:         https://www.mongodb.org/
+# Maintainer:  Kristian Lehmann, email at zero-io dot net
+# Depends on:
+
+name=mongodb-bin
+version=3.2.6
+release=1
+source=(https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-$version.tgz mongodb.conf mongodb.rc)
+
+build() {
+	cd mongodb-linux-x86_64-$version
+	install -d $PKG/usr
+	install -d $PKG/etc
+	install -d $PKG/etc/rc.d
+	cp -r bin $PKG/usr/
+	install -m 0644 $SRC/mongodb.conf $PKG/etc/
+	install -m 0755 $SRC/mongodb.rc $PKG/etc/rc.d/mongodb
+}
