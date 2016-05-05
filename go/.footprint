@@ -987,6 +987,7 @@ drwxr-xr-x	root/root	usr/lib/go/pkg/linux_amd64/internal/golang.org/x/net/http2/
 drwxr-xr-x	root/root	usr/lib/go/pkg/linux_amd64/internal/syscall/
 -rw-r--r--	root/root	usr/lib/go/pkg/linux_amd64/internal/syscall/unix.a
 drwxr-xr-x	root/root	usr/lib/go/pkg/linux_amd64/internal/syscall/windows/
+-rw-r--r--	root/root	usr/lib/go/pkg/linux_amd64/internal/syscall/windows/sysdll.a
 -rw-r--r--	root/root	usr/lib/go/pkg/linux_amd64/internal/testenv.a
 -rw-r--r--	root/root	usr/lib/go/pkg/linux_amd64/internal/trace.a
 -rw-r--r--	root/root	usr/lib/go/pkg/linux_amd64/io.a
@@ -3040,6 +3041,8 @@ drwxr-xr-x	root/root	usr/lib/go/src/internal/syscall/windows/registry/
 -rw-r--r--	root/root	usr/lib/go/src/internal/syscall/windows/registry/value.go
 -rw-r--r--	root/root	usr/lib/go/src/internal/syscall/windows/registry/zsyscall_windows.go
 -rw-r--r--	root/root	usr/lib/go/src/internal/syscall/windows/syscall_windows.go
+drwxr-xr-x	root/root	usr/lib/go/src/internal/syscall/windows/sysdll/
+-rw-r--r--	root/root	usr/lib/go/src/internal/syscall/windows/sysdll/sysdll.go
 -rw-r--r--	root/root	usr/lib/go/src/internal/syscall/windows/zsyscall_windows.go
 drwxr-xr-x	root/root	usr/lib/go/src/internal/testenv/
 -rw-r--r--	root/root	usr/lib/go/src/internal/testenv/testenv.go
@@ -4360,6 +4363,7 @@ drwxr-xr-x	root/root	usr/lib/go/src/runtime/testdata/testprog/
 -rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprog/stringconcat.go
 -rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprog/syscall_windows.go
 drwxr-xr-x	root/root	usr/lib/go/src/runtime/testdata/testprogcgo/
+-rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprogcgo/aprof.go
 -rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprogcgo/callback.go
 -rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprogcgo/cgo.go
 -rw-r--r--	root/root	usr/lib/go/src/runtime/testdata/testprogcgo/crash.go
