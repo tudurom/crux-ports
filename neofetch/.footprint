@@ -22,6 +22,7 @@ drwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/crux_small
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/debian
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/deepin
+-rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/dragonflybsd
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/elementary
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/exherbo
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/fedora
@@ -33,6 +34,8 @@ drwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/gnewsense
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/kali
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/kaos
+-rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/kde
+-rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/kogaion
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/kubuntu
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/lmde
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/lubuntu
@@ -43,6 +46,7 @@ drwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/netbsd
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/nixos
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/openbsd
+-rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/openbsd_small
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/openmandriva
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/opensuse
 -rwxr-xr-x	root/root	usr/share/neofetch/ascii/distro/parabola
