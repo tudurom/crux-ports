@@ -2,10 +2,10 @@
 # URL:         http://rybczak.net/ncmpcpp
 # Packager:    Michael Savage, mike at mikejsavage dot co dot uk
 # Maintainer:  6c37 Team, https://github.com/6c37/crux-ports/issues
-# Depends on:  ncurses libmpdclient boost taglib
+# Depends on:  ncurses libmpdclient boost taglib fftw
 
 name=ncmpcpp
-version=0.7.3
+version=0.7.5
 release=1
 source=(http://rybczak.net/ncmpcpp/stable/ncmpcpp-$version.tar.bz2)
 
