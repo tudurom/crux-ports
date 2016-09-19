@@ -1,6 +1,6 @@
 # Description: Voice chat application (client only!)
 # URL:         http://mumble.sourceforge.net
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  boost qt4 speex libsndfile protobuf
 
 name=mumble-client

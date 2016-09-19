@@ -1,6 +1,6 @@
 # Description: Represent a percentage as a fancy progress bar.
 # URL:         http://git.z3bra.org/mkb
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:
 
 name=mkb

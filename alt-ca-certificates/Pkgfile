@@ -1,6 +1,6 @@
 # Description: Common CA certificates from the Debian project.
 # URL:         http://packages.debian.org/sid/ca-certificates
-# Maintainer:  Tudor Roman <tudurom at gmail dot com>
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:
 
 name=alt-ca-certificates

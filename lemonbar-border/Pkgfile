@@ -1,6 +1,6 @@
 # Description: Lemonbar with borders.
 # URL:         https://github.com/dark-yux/bar
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  xorg-libxcb
 
 name=lemonbar-border

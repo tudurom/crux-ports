@@ -1,6 +1,6 @@
 # Description: MongoDB (from "humongous") is an open-source document database
 # URL:         https://www.mongodb.org/
-# Maintainer:  Tudor Roman <tudurom at gmail dot com>
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:
 
 name=mongodb-bin

@@ -1,6 +1,6 @@
 # Description: Queries the X Resource Database
 # URL: 	       https://github.com/arianon/xrq
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  xorg-libx11 git
 
 name=xrq

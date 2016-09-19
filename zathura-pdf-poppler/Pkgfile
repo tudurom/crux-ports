@@ -1,6 +1,6 @@
 # Description: Zathura plugin for PDF support through poppler
 # URL:         https://pwmt.org/projects/zathura-pdf-poppler/
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  zathura poppler-glib
 
 name=zathura-pdf-poppler

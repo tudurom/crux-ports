@@ -1,6 +1,6 @@
 # Description: Small utility that you can use to make a text scroll.
 # URL:         http://git.z3bra.org/skroll
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:
 
 name=skroll

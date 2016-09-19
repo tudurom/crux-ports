@@ -1,6 +1,6 @@
 # Description: Program to easily change brightness on backlight-controllers.
 # URL:         https://github.com/haikarainen/light
-# Maintainer:  tudurom, tudurom at gmail dot com
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  help2man
 
 name=light
