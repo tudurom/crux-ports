@@ -1,7 +1,0 @@
-drwxr-xr-x	arc/users	usr/
-drwxr-xr-x	arc/users	usr/bin/
--rwxr-xr-x	arc/users	usr/bin/tbclock
-drwxr-xr-x	arc/users	usr/share/
-drwxr-xr-x	arc/users	usr/share/man/
-drwxr-xr-x	arc/users	usr/share/man/man1/
--rw-r--r--	arc/users	usr/share/man/man1/tbclock.1.gz

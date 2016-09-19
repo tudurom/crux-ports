@@ -1,6 +1,6 @@
 # Description: A rewrite of unclutter using the x11-xfixes extension
 # URL: 	       https://github.com/airblader/unclutter-xfixes
-# Packager:    tudurom, xenogenesis@openmailbox.org
+# Maintainer:  tudurom, tudurom at gmail dot com
 # Depends on:  xorg-libxi xorg-libx11 xorg-libxfixes libev asciidoc
 
 name=unclutter-xfixes

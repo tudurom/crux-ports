@@ -1,7 +1,0 @@
-drwxr-xr-x	arc/users	usr/
-drwxr-xr-x	arc/users	usr/bin/
--rwxr-xr-x	arc/users	usr/bin/osd_clock
-drwxr-xr-x	arc/users	usr/man/
-drwxr-xr-x	arc/users	usr/man/man1/
--rw-r--r--	arc/users	usr/man/man1/osd_clock.1.gz
-drwxr-xr-x	arc/users	usr/man/man3/

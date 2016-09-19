@@ -1,6 +1,6 @@
 # Description: Set of utilities for getting info about connected displays.
 # URL:         https://arcetera.moe/git/disputils/
-# Packager:    tudurom, xenogenesis@openmailbox.org
+# Maintainer:  tudurom, tudurom at gmail dot com
 # Depends on:  git xorg-libxcb
 
 name=disputils

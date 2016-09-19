@@ -1,6 +1,6 @@
 # Description: Universal typing tutor.
 # URL:         http://www.gnu.org/software/gtypist
-# Packager:    tudurom, xenogenesis@openmailbox.org
+# Maintainer:  tudurom, tudurom at gmail dot com
 # Depends on:  ncurses perl
 
 name=gtypist

@@ -1,6 +1,6 @@
 # Description: Automated xcutsel.
 # URL: 	       https://github.com/sigmike/autocutsel
-# Packager:    tudurom, xenogenesis@openmailbox.org
+# Maintainer:  Tudor Roman, tudurom at gmail dot com
 # Depends on:  xorg-libxav
 
 name=autocutsel

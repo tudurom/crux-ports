@@ -1,6 +1,6 @@
 # Description: Zathura plugin for PDF support through poppler
 # URL:         https://pwmt.org/projects/zathura-pdf-poppler/
-# Packager:    tudurom, xenogenesis@openmailbox.org
+# Maintainer:  tudurom, tudurom at gmail dot com
 # Depends on:  zathura poppler-glib
 
 name=zathura-pdf-poppler
@@ -11,6 +11,6 @@ source=(https://pwmt.org/projects/zathura-pdf-poppler/download/zathura-pdf-poppl
 build() {
 	cd $name-$version
 
-  make
-  make install DESTDIR="$PKG"
+	make
+	make install DESTDIR="$PKG"
 }

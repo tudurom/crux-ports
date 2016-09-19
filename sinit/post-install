@@ -1,7 +1,0 @@
-#!/bin/sh
-#
-# sinit postinst script
-#
-
-# symlink sinit to init to avoid broken setups
-ln -s /sbin/sinit /sbin/init
