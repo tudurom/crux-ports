@@ -19,4 +19,5 @@ build() {
     make
 
     make prefix=$PKG/usr install
+    rm -rf $PKG/usr/share/info $PKG/usr/share/locale
 }

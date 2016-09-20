@@ -13,4 +13,6 @@ build() {
 
     make
     make DESTDIR="$PKG/" install
+
+    chmod 755 $PKG/usr/bin/${name}
 }
